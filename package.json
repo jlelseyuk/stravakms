@@ -1,0 +1,13 @@
+{
+  "name": "stravakms",
+  "version": "1.0.0",
+  "description": "Output Strava YTD distance in kms.",
+  "main": "stravakms.js",
+  "author": "James Elsey",
+  "homepage": "https://www.jameselsey.com",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.16.0"
+  }
+}
